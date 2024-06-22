@@ -1,5 +1,5 @@
 # police-lawsuits
-Data used in analysis published in "How to price the police out of violence: civil rights litigation and the potential impact of ending qualified immunity" available at https://medium.com/@amandanguyn/how-to-price-the-police-out-of-violence-civil-rights-litigation-and-the-potential-impact-of-349f69a4093d.
+Data used for "How to price the police out of violence: civil rights litigation and the potential impact of ending qualified immunity" available at https://medium.com/@amandanguyn/how-to-price-the-police-out-of-violence-civil-rights-litigation-and-the-potential-impact-of-349f69a4093d.
 
 References:
 CAPstat, available at https://www.capstat.nyc/
